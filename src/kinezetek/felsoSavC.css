@@ -1,0 +1,28 @@
+.growFelirat{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    margin-left: 40px;
+    margin-bottom: 0px;
+    font-weight: 900;
+    font-size: 13vh;
+    
+}
+
+.felsoSor{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.felsoGombok{
+    color: white;
+    font-weight: bolder;
+    background-color: rgba(255, 255, 255, 0.2);
+    border: none;
+    border-radius: 30px;
+    height: 8vh;
+    font-size: 4vh;
+    width: 20vh;
+    font-style: italic;
+    transition: 1s;
+}

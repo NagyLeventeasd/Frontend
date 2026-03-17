@@ -1,0 +1,104 @@
+body{
+    background: linear-gradient(180deg, #0127ff, #00eeff);
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.NavCucc{
+
+    border-radius: 25px;
+    height: 74vh;
+    width: 30vh;
+    border: solid 1px white ;
+    background-color: rgb(255, 255, 255, 0.4);
+    font-size: 4vh;
+    font-weight: bolder;
+    margin-top: 30px;
+    margin-left: 40px;
+
+    animation-duration: 1s;
+    animation-name: elojovetel;
+
+
+}
+
+@keyframes elojovetel{
+    0%{
+        opacity: 0%; 
+        margin-top: 200px;
+    }
+    60%{
+        opacity: 20%;
+    }
+    80%{
+        opacity: 100%;
+    }
+}
+
+.link,
+.link:visited,
+.link:hover,
+.link:active{
+    margin-left: 4px;
+    text-decoration: none;
+    font-weight: bold; 
+    color: white; 
+}
+
+hr{
+    color: white;
+    margin: 0;
+}
+
+#imgDiv img{
+    margin-top: 30px;
+    height: 24vh;
+}
+
+#imgDiv{
+    text-align: center;
+}
+
+.link img{
+    height: 3vh;
+}
+
+.elvalasztas{
+    margin-bottom: 30px;
+}
+
+.azEgesz{
+    display: flex;
+}
+
+
+
+
+
+
+.foOldal{
+    margin-left: 30px; 
+    background-color: red;
+    height: 40px;
+    width: 40px;
+
+    animation-duration: 2s;
+    animation-name: spin;
+    animation-iteration-count: infinite;
+}
+
+@keyframes spin{
+    0%{ 
+        opacity: 30%;
+    }
+    50%{
+        scale: 4;
+    }
+    100%{
+        transform: rotate(360deg);
+        border-radius: 50%;
+        scale: 2;
+        opacity: 100%;
+    }
+}
