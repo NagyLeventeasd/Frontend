@@ -19,10 +19,37 @@
     font-weight: bolder;
     background-color: rgba(255, 255, 255, 0.2);
     border: none;
-    border-radius: 30px;
-    height: 8vh;
+    border-radius: 35px;
+    height: 55px;
     font-size: 4vh;
     width: 20vh;
     font-style: italic;
     transition: 1s;
+}
+
+.kereso{
+    font-size: 1.8vh;
+    width: 90vh;
+    margin: 10px;
+    height: 50px;
+    border-radius: 25px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0.247);
+    color: white;
+    padding-left: 10px;
+}
+
+.felsoGI{
+    margin-right: 40px;
+}
+
+.felsoGombok:hover {
+    color: rgba(32, 83, 248, 0.459);
+    font-weight: bolder;
+    background-color: white;
+    border: none;
+    border-radius: 30px;
+    font-style: italic;
+    transition: 0.7s;
+    cursor: pointer;
 }

@@ -81,7 +81,7 @@ body {
     color: white;
     padding-left: 10px;
     transition: 2s;
-
+    
 }
 
 .inputMD {
@@ -103,6 +103,9 @@ body {
     min-width: 230px;
     font-style: italic;
     transition: 1s;
+}
+.asd{
+    display: inline;
 }
 
 .regGomb:hover {

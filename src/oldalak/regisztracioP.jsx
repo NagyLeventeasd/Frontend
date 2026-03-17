@@ -22,10 +22,10 @@ export default function Regisztracio() {
 
             <div className='regisztracioHelye'>
                 <div className="inputMD">
-                    <InputMezo className='regInput' label='Username' type='text' placeholder='' />
-                    <InputMezo className='regInput' label='E-mail' type='email' placeholder='' />
-                    <InputMezo className='regInput' label='Password' type='password' placeholder='' />
-                    <InputMezo className='regInput' label='Password agian' type='password' placeholder='' />
+                    <InputMezo  label='Username' type='text' placeholder='' />
+                    <InputMezo  label='E-mail' type='email' placeholder='' />
+                    <InputMezo  label='Password' type='password' placeholder='' />
+                    <InputMezo  label='Password agian' type='password' placeholder='' />
                 </div>
                 <div className="alsoFelirat">
                     <p>If you already have an account: <Link className='alsoFeliratKinezet' to='/bejelentkezes'>log in</Link></p>
