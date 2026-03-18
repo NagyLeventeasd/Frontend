@@ -7,8 +7,8 @@ export default function FelsoSav() {
     return(
         <div className='felsoSor'>
             <span className='growFelirat'>Grow</span>
-            <KeresoInputM className='kereso'/>
-            <Link to="/regisztracio"><Gomb buttonClass='felsoGombok ' content='Sing up' /></Link>
+            <KeresoInputM placeholder="Search..." className='kereso'/>
+            <Link to="/regisztracio"><Gomb  buttonClass='felsoGombok ' content='Sing up' /></Link>
             <Link to="/bejelentkezes"><Gomb buttonClass='felsoGombok felsoGI' content='Log in' /></Link>
         </div>
     )
