@@ -7,7 +7,7 @@ export default defineConfig({
   server:{
     proxy:{
       '/users': {
-        target:'http://127.0.0.1:4000',
+        target:'http://192.168.9.111:4000',
         changeOrigin: true
       }
     }

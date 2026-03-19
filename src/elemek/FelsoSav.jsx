@@ -3,7 +3,7 @@ import '../kinezetek/felsoSavC.css'
 import KeresoInputM from './KeresoInputM'
 import Gomb from './GombE'
 
-export default function FelsoSav() {
+export default function FelsoSav({user, onLogout}) {
     return(
         <div className='felsoSor'>
             <span className='growFelirat'>Grow</span>
