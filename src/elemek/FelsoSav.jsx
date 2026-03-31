@@ -19,8 +19,9 @@ export default function FelsoSav({ user, onLogout }) {
             {isLoggedIn ? (
                 //bejelentkezett
                 <>
+                    
                     <Dropdown user={user} onLogout={onLogout}/>
-                   
+
 
 
                 </>) : (
