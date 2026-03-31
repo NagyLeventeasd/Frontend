@@ -8,7 +8,6 @@ import Dropdown from "../elemek/ProfileG";
 export default function FelsoSav({ user, onLogout }) {
     const isLoggedIn = !!user
 
-    const isAdmin = user?.role === 'admin'
     return (
 
 

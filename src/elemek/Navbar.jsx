@@ -11,7 +11,9 @@ import PokerC from '../assets/kepek/pokerC.png'
 import Live from '../assets/kepek/stream.png'
 
 
-export default function Navbar(params) {
+export default function Navbar() {
+  
+    
     return (
         <div>
             <div className='azEgesz'>
@@ -38,7 +40,8 @@ export default function Navbar(params) {
                     <hr />
                     <Link className='link' to='/profile'> <img src={Live} alt="" /> Live casino</Link>
                     <hr />
-
+                    
+                    
                 </div>
 
                 <div className=''>

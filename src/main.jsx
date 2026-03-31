@@ -19,7 +19,7 @@ createRoot(document.getElementById('root')).render(
         <Route path='/test' element={<Test/>}/>
         <Route path='/regisztracio' element={<Regisztracio/>}/>
         <Route path='/bejelentkezes' element={<Bejelentkezes/>}/>
-        <Route path='/deposit' element={<depositP/>}/>
+        <Route path='/deposit' element={<Depostit/>}/>
       </Routes>
     </BrowserRouter>
   </StrictMode>,

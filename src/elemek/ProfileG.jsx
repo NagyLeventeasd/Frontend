@@ -15,9 +15,10 @@ export default function Dropdown({onLogout}) {
 
             {open && (
                 <ul className="dropdown">
-                    <li><Link to="/deposit" ><Gomb content="Deposit" onClick={onLogout}/></Link></li>
-                    <li><Gomb content="ASD" onClick={onLogout}/></li>
-                    <li><Gomb content="ASd" onClick={onLogout}/></li>
+                    
+                    <li><Link to="/deposit" ><Gomb content="Deposit"/></Link></li>
+
+                    <li><Gomb content="Log out" buttonClass="dropGomb" onClick={onLogout}/></li>
 
                 </ul>
             )}

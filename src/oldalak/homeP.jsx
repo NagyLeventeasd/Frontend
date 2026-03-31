@@ -48,7 +48,7 @@ export default function Home() {
             </div>
          
             <div className='asd'>
-                <Navbar />
+                <Navbar user={user}/>
                 <div className='hirdetesekK'></div>
             </div>
         
