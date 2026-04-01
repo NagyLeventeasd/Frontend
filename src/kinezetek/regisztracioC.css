@@ -57,7 +57,7 @@ body {
     width: 900px;
     margin: 0;
     justify-content: center;
-    transition: 2s;
+    transition: 1s;
 }
 
 .labelI {
@@ -81,7 +81,7 @@ body {
     background-color: rgba(255, 255, 255, 0.247);
     color: white;
     padding-left: 10px;
-    transition: 2s;
+    transition: 1s;
     
 }
 
@@ -103,7 +103,7 @@ body {
     font-size: 4vh;
     min-width: 230px;
     font-style: italic;
-    transition: 1s;
+    transition: 0.6s;
 }
 .asd{
     display: inline;
@@ -127,7 +127,7 @@ body {
     color: rgba(255, 255, 255, 0.6);
     font-style: italic;
     font-weight: bolder;
-    transition: 2s;
+    transition: 1s;
 }
 
 .gombDiv {
@@ -151,7 +151,7 @@ body {
 
 .regisztracioHelye:hover {
     .regInput {
-        transition: 2s;
+        transition: 1s;
         width: 700px;
         height: 55px;
         font-size: 2vh;
@@ -161,7 +161,7 @@ body {
     .alsoFelirat {
         font-size: 2vh;
         margin-left: 125px;
-        transition: 2s;
+        transition: 1s;
     }
 
     .regGomb {
@@ -172,7 +172,7 @@ body {
 
     background-color: rgba(255, 255, 255, 0.404);
 
-    transition: 2s;
+    transition: 1s;
     height: 750px;
     width: 950px;
     margin: 40px;

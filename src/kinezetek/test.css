@@ -22,11 +22,22 @@ button {
     transition: 1s;
 }
 
+.GH:hover{
+    color: rgba(32, 83, 248, 0.459);
+    font-weight: bolder;
+    background-color: white;
+    border: none;
+    border-radius: 30px;
+    font-style: italic;
+    transition: 0.6s;
+    cursor: pointer;
+}
+
 button:hover{
     cursor: pointer;
 }
 .dropGomb:hover{
-    background-color: red;
+    background-color: rgba(253, 30, 30, 0.733);
 }
 
 ul {
@@ -52,9 +63,10 @@ li{
     top: 100;
     left: 0;
     margin-top: 8px;
-    z-index: 9999; /* ez a kulcs */
+    z-index: 9999; 
     animation: fade 0.2s ease;
     width: 400px;
+
 }
 
 @keyframes fade {

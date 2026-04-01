@@ -67,12 +67,32 @@ export default function Home() {
                 <Card src={SlotKep} slotClass='slot'/>
             </div>
             <div className='slots'>
-                <Card slotClass='slot'/>
-                <Card slotClass='slot'/>
-                <Card slotClass='slot'/>
-                <Card slotClass='slot'/>
-                <Card slotClass='slot'/>
-                
+                <Card src={SlotKep} slotClass='slot'/>
+                <Card src={SlotKep} slotClass='slot'/>
+                <Card src={SlotKep} slotClass='slot'/>
+                <Card src={SlotKep} slotClass='slot'/>
+                <Card src={SlotKep} slotClass='slot'/>
+            </div>
+            <div className='slots'>
+                <Card src={SlotKep} slotClass='slot'/>
+                <Card src={SlotKep} slotClass='slot'/>
+                <Card src={SlotKep} slotClass='slot'/>
+                <Card src={SlotKep} slotClass='slot'/>
+                <Card src={SlotKep} slotClass='slot'/>
+            </div>
+            <div className='slots'>
+                <Card src={SlotKep} slotClass='slot'/>
+                <Card src={SlotKep} slotClass='slot'/>
+                <Card src={SlotKep} slotClass='slot'/>
+                <Card src={SlotKep} slotClass='slot'/>
+                <Card src={SlotKep} slotClass='slot'/>
+            </div>
+            <div className='slots'>
+                <Card src={SlotKep} slotClass='slot'/>
+                <Card src={SlotKep} slotClass='slot'/>
+                <Card src={SlotKep} slotClass='slot'/>
+                <Card src={SlotKep} slotClass='slot'/>
+                <Card src={SlotKep} slotClass='slot'/>
             </div>
         </div>
 
