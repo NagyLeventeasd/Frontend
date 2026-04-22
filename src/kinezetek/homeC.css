@@ -1,0 +1,65 @@
+
+
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    background: linear-gradient(to bottom, #1100ff, #00aeff);
+    background-attachment: fixed; /* opcionális */
+}
+
+.asd{
+    display: flex;
+}
+
+.hirdetesekK{
+    background-color: rgb(255, 255, 255, 0.4);
+    opacity: 50%;
+    margin-top: 30px;
+    width: 1900px;
+    height: 711px;
+    border-radius: 25px;
+    margin-left: 80px;
+    margin-right: 40px;
+    justify-content: right;
+    animation-duration: 1s;
+    animation-name: elojovetel;
+}
+
+@keyframes elojovetel{
+    0%{
+        opacity: 0%; 
+        margin-top: 200px;
+    }
+    60%{
+        opacity: 20%;
+    }
+    80%{
+        opacity: 100%;
+    }
+}
+
+.slots{
+    display: flex;
+    justify-content: space-between;
+    margin: 35px 40px;
+}
+
+.slot{
+    animation-duration: 1.5s;
+    animation-name: elojovetel;
+    background-color: rgb(255, 255, 255, 0.4);
+    height: 200px;
+    width: 300px;
+    border: none;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center; /* vízszint */
+    align-items: center;    
+}
+
+.slot img{
+    display: block;
+    height: 180px;
+    justify-content: center;
+}
