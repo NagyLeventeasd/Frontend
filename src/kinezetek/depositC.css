@@ -1,0 +1,54 @@
+.kartyaAlap {
+    background-color: rgba(255, 255, 255, 0.247);
+    height: 75vh;
+    margin: 30px;
+    border-radius: 15px;
+    width: 150vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.kartyaLogo img {
+    height: 50vh;
+}
+
+.kartyaCimsor {
+    background-color: rgba(255, 255, 255, 0.247);
+    width: 100%;
+    margin-top: 6vh;
+    height: 7vh;
+    line-height: 100%;
+    align-items: center;
+}
+
+.kartyaCimsor img {
+    height: 6vh;
+    padding: 5px;
+    margin: 0px 10px;
+}
+
+.inputIgazitas {
+    display: flex;
+    justify-content: center;
+}
+
+.osszegInput{
+    height: 6vh;
+    width: 80vh;
+    margin-bottom: 10vh;
+}
+
+.gombIgazitas {
+    display: flex;
+    justify-content: center;
+}
+
+
+.kartya {
+    background-color: rgba(255, 255, 255, 0.247);
+    height: 50vh;
+    width: 90vh;
+    border-radius: 35px;
+    margin-right: 10vh;
+}

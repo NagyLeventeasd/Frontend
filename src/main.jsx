@@ -5,11 +5,12 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom' //Az oldalak kö
 //oldalak
 //----------------------------------------------------------------------
 import Test from'./oldalak/test'
-import Regisztracio from './oldalak/regisztracioP'
-import Bejelentkezes from './oldalak/bejelentkezesP'
-import Home from './oldalak/homeP'
-import Depostit from './oldalak/depositP'
-
+import Regisztracio from './oldalak/RegisztracioP.jsx'
+import Bejelentkezes from './oldalak/BejelentkezesP.jsx'
+import Home from './oldalak/HomeP.jsx'
+import Depostit from './oldalak/DepositP.jsx'
+import Admin from './oldalak/Admin.jsx'
+import Profil from './oldalak/profil.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -20,6 +21,8 @@ createRoot(document.getElementById('root')).render(
         <Route path='/regisztracio' element={<Regisztracio/>}/>
         <Route path='/bejelentkezes' element={<Bejelentkezes/>}/>
         <Route path='/deposit' element={<Depostit/>}/>
+        <Route path='/admin' element={<Admin/>}/>
+        <Route path='/profile' element= {<Profil/>}/>
       </Routes>
     </BrowserRouter>
   </StrictMode>,
