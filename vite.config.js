@@ -7,7 +7,7 @@ export default defineConfig({
   server:{
     proxy:{
       '/users': {
-        target:'http://192.168.9.111:4000',
+        target:'https://nodejs212.dszcbaross.edu.hu',
         changeOrigin: true
       }
     }
