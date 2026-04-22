@@ -1,0 +1,34 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[[redirects]]
+  from = "/users*"
+  to = "https://nodejs212.dszcbaross.edu.hu/users/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/api/profile-images*"
+  to = "https://nodejs212.dszcbaross.edu.hu:21111/api/profile-images/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/mines"
+  to = "https://nodejs212.dszcbaross.edu.hu:21111/mines"
+  status = 200
+  force = true
+
+
+[[redirects]]
+  from = "/user/*"
+  to = "https://nodejs212.dszcbaross.edu.hu/user/:splat"
+  status = 200
+  force = true
+
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
