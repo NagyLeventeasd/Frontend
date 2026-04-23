@@ -12,7 +12,7 @@ export default function FelsoSav({ user, onLogout }) {
 
 
         <div className='felsoSor'>
-            <span className='growFelirat'>Grow</span>
+            <Link className='link' to='/'><span className='growFelirat'>Grow</span></Link>
             <KeresoInputM placeholder="Search..." className='kereso' />
 
             {isLoggedIn ? (

@@ -17,11 +17,7 @@ export default function Dropdown({user, onLogout}) {
             {open && (
                 <ul className="dropdown">
                     
-<<<<<<< HEAD
-                    {isAdmin && <li><Link to="/deposit" ><Gomb content="Admin"/></Link></li>}
-=======
                     {isAdmin && <li><Link to="/admin" ><Gomb content="Admin"/></Link></li>}
->>>>>>> master
 
                     <li><Link to="/deposit" ><Gomb content="Deposit"/></Link></li>
 

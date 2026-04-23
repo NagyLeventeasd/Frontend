@@ -12,13 +12,8 @@ import Live from '../assets/kepek/stream.png'
 
 
 export default function Navbar() {
-<<<<<<< HEAD
-  
-    
-=======
 
 
->>>>>>> master
     return (
         <div>
             <div className='azEgesz'>
@@ -37,11 +32,7 @@ export default function Navbar() {
                     <Link className='link' to='/profile'><img src={Promotion} alt="" /> Promotion</Link><br />
                     <hr className='elvalasztas' />
                     <hr />
-<<<<<<< HEAD
-                    <Link className='link' to='/profile'><img src={Slot} alt="" /> Slots</Link><br />
-=======
                     <Link className='link' to='/'><img src={Slot} alt="" /> Slots</Link><br />
->>>>>>> master
                     <hr />
                     <Link className='link' to='/profile'> <img src={PokerC} alt="" /> Cards</Link><br />
                     <hr />
@@ -49,13 +40,8 @@ export default function Navbar() {
                     <hr />
                     <Link className='link' to='/profile'> <img src={Live} alt="" /> Live casino</Link>
                     <hr />
-<<<<<<< HEAD
-                    
-                    
-=======
 
 
->>>>>>> master
                 </div>
 
                 <div className=''>
