@@ -3,7 +3,8 @@ import '../kinezetek/depositC.css';
 import Logo from '../assets/kepek/growLog.png'
 import Mastercard from '../assets/kepek/mastercard.png'
 import Visa from '../assets/kepek/visa.png'
-import American from '../assets/kepek/american.png'
+
+import American from'../assets/kepek/american.png'
 
 import { Link, useNavigate } from 'react-router-dom'
 import InputMezo from '../elemek/InputMezoE';
