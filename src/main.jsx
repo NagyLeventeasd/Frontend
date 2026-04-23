@@ -9,7 +9,7 @@ import Regisztracio from './oldalak/RegisztracioP.jsx'
 import Bejelentkezes from './oldalak/BejelentkezesP.jsx'
 import Home from './oldalak/HomeP.jsx'
 import Depostit from './oldalak/DepositP.jsx'
-import Admin from './oldalak/Admin.jsx'
+import Admin from './oldalak/admin.jsx'
 import Profil from './oldalak/Profil.jsx'
 
 createRoot(document.getElementById('root')).render(
