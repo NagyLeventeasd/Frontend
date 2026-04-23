@@ -9,7 +9,7 @@ import { Link, useNavigate } from 'react-router-dom'
 import InputMezo from '../elemek/InputMezoE';
 import Gomb from '../elemek/GombE';
 
-export default function deposit() {
+export default function Deposit() {
   return (
     <div>
       <div>
