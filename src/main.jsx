@@ -10,6 +10,7 @@ import Bejelentkezes from './oldalak/BejelentkezesP.jsx'
 import Home from './oldalak/HomeP.jsx'
 import Depostit from './oldalak/DepositP.jsx'
 import Profil from './oldalak/Profil.jsx'
+import Admin from './oldalak/AdminP.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
