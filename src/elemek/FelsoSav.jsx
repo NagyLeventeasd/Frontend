@@ -3,11 +3,14 @@ import '../kinezetek/felsoSavC.css'
 import KeresoInputM from './KeresoInputM'
 import Gomb from './GombE'
 import Dropdown from "../elemek/ProfileG";
+import { useAuth } from "../context/AuthContext";
 
 
-export default function FelsoSav({ user, onLogout }) {
-    const isLoggedIn = !!user
+export default function FelsoSav() {
+    const { user, onLogout, loading } = useAuth();
+    const isLoggedIn = !!user;
 
+    console.log(isLoggedIn, user);
     return (
 
 
@@ -19,7 +22,7 @@ export default function FelsoSav({ user, onLogout }) {
                 //bejelentkezett
                 <>
                     
-                    <Dropdown user={user} onLogout={onLogout}/>
+                    <Dropdown/>
 
 
 

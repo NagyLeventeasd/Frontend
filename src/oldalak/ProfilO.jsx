@@ -1,3 +1,7 @@
+import { useState, useEffect } from "react";
+import {useNavigate } from 'react-router-dom'
+import {whoami, logout} from '../api';
+
 import FelsoSav from '../elemek/FelsoSav';
 import '../kinezetek/profileC.css';
 import Logo from '../assets/kepek/growLog.png'
@@ -8,11 +12,15 @@ import Pfp from '../assets/kepek/hirdetes.png'
 
 
 export default function Profil() {
+
+  
+
+
   return (
     <div>
 
       <div>
-        <FelsoSav />
+        <FelsoSav/>
       </div>
 
       <div className='rendezes'>

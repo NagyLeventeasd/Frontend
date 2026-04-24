@@ -1,3 +1,7 @@
+import { useState, useEffect } from "react";
+import {useNavigate } from 'react-router-dom'
+import {whoami, logout} from '../api';
+
 import '../kinezetek/adminC.css'
 import Gomb from '../elemek/GombE'
 import FelsoSav from '../elemek/FelsoSav';
@@ -5,10 +9,12 @@ import User from '../assets/kepek/user.png'
 
 
 export default function Admin() {
+
+
     return (
         <div>
             <div>
-                <FelsoSav />
+                <FelsoSav/>
             </div>
 
             <div className="rendezes">

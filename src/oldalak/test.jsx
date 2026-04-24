@@ -1,5 +1,5 @@
 import Dropdown from "../elemek/ProfileG";
-import '../kinezetek/test.css';
+import '../kinezetek/profileC.css';
 
 export default function test() {
   return (

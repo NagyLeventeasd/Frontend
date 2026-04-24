@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
+import { useAuth } from "../context/AuthContext"
 
 import '../kinezetek/bejelentkezesC.css'
 
@@ -7,11 +8,13 @@ import Logo from '../assets/kepek/growLog.png'
 import InputMezo from '../elemek/InputMezoE'
 import Gomb from '../elemek/GombE'
 
+
 import { login } from '../api'
 
 export default function Bejelentkezes() {
     const navigate=useNavigate()
-    
+    const { refreshUser } = useAuth();
+
     const [email, setEmail]=useState('')
     const [username, setUsername]=useState('')
     const [psw, setPsw]=useState('')
@@ -19,9 +22,11 @@ export default function Bejelentkezes() {
     const [hiba, setHiba]=useState('')
     const [uzenet, setUzenet]=useState('')
     
+
     async function onLogin(){
         setHiba('')
         setUzenet('')
+
 
         if(!email || !psw){
             return setHiba('Minden mező kitöltése kötelező')
@@ -34,7 +39,10 @@ export default function Bejelentkezes() {
                 return setHiba(data.error)
             }
             setUzenet(data.message)
-            setTimeout(() => navigate('/'),600);
+
+            await refreshUser();
+            navigate("/")
+           
         } catch (err) {
             setHiba("Nem Sikerült a backendhez kapcsolódni")
         }

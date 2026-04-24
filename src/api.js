@@ -14,6 +14,8 @@ export async function register(email, username, psw){
     return data
 }
 
+
+
 export async function login(email, psw){
 
     const res=await fetch (`${BACKEND_URL}/login`, {
