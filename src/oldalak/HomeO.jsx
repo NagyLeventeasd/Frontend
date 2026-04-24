@@ -9,7 +9,7 @@ import Navbar from '../elemek/Navbar'
 import FelsoSav from '../elemek/FelsoSav'
 import Card from'../elemek/Card'
 
-import Hirdet from '../assets/kepek/hirede.png'
+import Hirdet from '../assets/kepek/hirdetes.png'
 import SlotKep from '../assets/kepek/sugar.png'
 import Dropdown from "../elemek/ProfileG";
 
@@ -49,7 +49,7 @@ export default function Home() {
          
             <div className='asd'>
                 <Navbar user={user}/>
-                <div className='hirdetesekK'></div>
+                <img className="hirdetesekK" src={Hirdet} alt="" />
             </div>
         
             <div className='slots'>

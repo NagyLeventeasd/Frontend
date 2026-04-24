@@ -11,6 +11,172 @@
     height: 80vh;
 }
 
+.drop{
+    position: relative;
+}
+
+.egesz{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    color: white;
+    font-weight: bolder;
+    background-color: rgba(255, 255, 255, 0.2);
+    border: none;
+    border-radius: 35px;
+    height: 55px;
+    font-size: 4vh;
+    width: 20vh;
+    font-style: italic;
+    transition: 1s;
+}
+
+.GH:hover{
+    color: rgba(32, 83, 248, 0.459);
+    font-weight: bolder;
+    background-color: white;
+    border: none;
+    border-radius: 30px;
+    font-style: italic;
+    transition: 0.6s;
+    cursor: pointer;
+}
+
+button:hover{
+    cursor: pointer;
+}
+.dropGomb:hover{
+    background-color: rgba(253, 30, 30, 0.733);
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    margin-left: 250px;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
+
+li{
+    margin: 10px 0;
+    list-style: none;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
+
+.dropdown {
+    position: absolute;
+    top: 100;
+    left: 0;
+    margin-top: 8px;
+    z-index: 9999; 
+    animation: fade 0.2s ease;
+    width: 400px;
+
+}
+
+@keyframes fade {
+    from {
+        opacity: 0;
+        transform: translateY(-5px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.drop{
+    position: relative;
+}
+
+.egesz{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    color: white;
+    font-weight: bolder;
+    background-color: rgba(255, 255, 255, 0.2);
+    border: none;
+    border-radius: 35px;
+    height: 55px;
+    font-size: 4vh;
+    width: 20vh;
+    font-style: italic;
+    transition: 1s;
+}
+
+.GH:hover{
+    color: rgba(32, 83, 248, 0.459);
+    font-weight: bolder;
+    background-color: white;
+    border: none;
+    border-radius: 30px;
+    font-style: italic;
+    transition: 0.6s;
+    cursor: pointer;
+}
+
+button:hover{
+    cursor: pointer;
+}
+.dropGomb:hover{
+    background-color: rgba(253, 30, 30, 0.733);
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    margin-left: 250px;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
+
+li{
+    margin: 10px 0;
+    list-style: none;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
+
+.dropdown {
+    position: absolute;
+    top: 100;
+    left: 0;
+    margin-top: 8px;
+    z-index: 9999; 
+    animation: fade 0.2s ease;
+    width: 400px;
+
+}
+
+@keyframes fade {
+    from {
+        opacity: 0;
+        transform: translateY(-5px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
 
 
 

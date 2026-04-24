@@ -14,10 +14,10 @@ body {
 
 .hirdetesekK{
     background-color: rgb(255, 255, 255, 0.4);
-    opacity: 50%;
+    opacity: 80%;
     margin-top: 30px;
-    width: 1900px;
-    height: 711px;
+    width: 1000vh;
+    height: 74vh;
     border-radius: 25px;
     margin-left: 80px;
     margin-right: 40px;

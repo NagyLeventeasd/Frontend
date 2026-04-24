@@ -1,0 +1,52 @@
+#nemElerhetoFelirat{
+    color: white;
+    font-weight: bold;
+    font-size: 10vh;
+    line-height: 14vh;
+    margin-left: 5vh;
+    user-select: none;
+}
+
+#rendezes{
+    margin-top: 10vh;
+    display: flex;
+}
+
+#logo{
+    height: 50vh;
+    user-select: none;
+
+}
+
+#visszaGomb{
+    min-width: 50vh;
+    height: 8vh;
+    font-size: 4vh;
+    justify-content: center;
+    align-items: center; 
+    user-select: none;
+
+    border-radius: 25px;
+    
+}
+
+#gombRendezes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+#visszaLink,
+#visszaLink:visited,
+#visszaLink:hover,
+#visszaLinkvisszaLink:active{
+    text-decoration: none;
+    color: white; 
+}
+
+#body {
+  height: 100vh;
+  overflow: hidden;
+}

@@ -25,20 +25,20 @@ export default function Navbar() {
                     <hr />
                     <Link className='link' to='/profile'> <img src={User} alt="" /> Profile</Link><br />
                     <hr />
-                    <Link className='link' to='/profile'><img src={History} alt="" /> Played</Link><br />
+                    <Link className='link' to='/played'><img src={History} alt="" /> Played</Link><br />
                     <hr />
-                    <Link className='link' to='/profile'><img src={Favorite} alt="" /> Favorite</Link><br />
+                    <Link className='link' to='/favorite'><img src={Favorite} alt="" /> Favorite</Link><br />
                     <hr />
-                    <Link className='link' to='/profile'><img src={Promotion} alt="" /> Promotion</Link><br />
+                    <Link className='link' to='/promotion'><img src={Promotion} alt="" /> Promotion</Link><br />
                     <hr className='elvalasztas' />
                     <hr />
-                    <Link className='link' to='/'><img src={Slot} alt="" /> Slots</Link><br />
+                    <Link className='link' to='/slots'><img src={Slot} alt="" /> Slots</Link><br />
                     <hr />
-                    <Link className='link' to='/profile'> <img src={PokerC} alt="" /> Cards</Link><br />
+                    <Link className='link' to='/cards'> <img src={PokerC} alt="" /> Cards</Link><br />
                     <hr />
-                    <Link className='link' to='/profile'> <img src={Roulette} alt="" /> Roulette</Link><br />
+                    <Link className='link' to='/roulette'> <img src={Roulette} alt="" /> Roulette</Link><br />
                     <hr />
-                    <Link className='link' to='/profile'> <img src={Live} alt="" /> Live casino</Link>
+                    <Link className='link' to='/liveCasino'> <img src={Live} alt="" /> Live casino</Link>
                     <hr />
 
 
