@@ -2,51 +2,79 @@ import FelsoSav from '../elemek/FelsoSav';
 import '../kinezetek/profileC.css';
 import Logo from '../assets/kepek/growLog.png'
 import Gomb from '../elemek/GombE'
-import InputMezo from '../elemek/InputMezoE'
+import ProfileInput from '../elemek/ProfileInput';
+import Pfp from '../assets/kepek/hirdetes.png'
 
 
 
 export default function Profil() {
   return (
     <div>
+
       <div>
         <FelsoSav />
       </div>
+
       <div className='rendezes'>
+
         <div className='profilAlap'>
+
           <div className='balOldalKep'>
             <img src={Logo} alt="" />
           </div>
-          <div className='jobRendezes'>
+
+          <div className='profilJobbRendezes'>
+
             <div className='pfpIgazitas'>
               <div>
-                <img className='pfp' src={Logo} alt="" />
+                <img className='pfp' src={Pfp} alt="" />
               </div>
-              <div>
-                <p>Upload your profile picture</p>
-                <Gomb content='Browse'/>
-                <Gomb content='Change'/>
+              <div id='vegig'>
+                <p className='profilFeliratok'>Upload your profile picture</p>
+                <div id='gomokMegfeleloElhelyezese'>
+                  <Gomb content='Browse' />
+                  <Gomb content='Change' />
+                </div>
               </div>
             </div>
-            <hr />
+
+            <hr className='hrEltartas' />
+
             <div>
-              <p>Change your name</p>
-              <InputMezo/>
-              <Gomb content='Change'/>
+              <p className='profilFeliratok alsokettoprofilFeliratok'>Change your name</p>
+
+              <div id='nevValtasRendezes'>
+                <ProfileInput placeholder="Name" />
+                <Gomb content='Change' />
+              </div>
             </div>
-            <hr />
+
+            <hr className='hrEltartas' />
+
             <div>
-              <p>Change your password</p>
-              <InputMezo/>
-              <InputMezo/>
-              <InputMezo/>
-              <Gomb content='Change'/>
+              <p className='profilFeliratok alsokettoprofilFeliratok'>Change your password</p>
+              <div className='jelszoRendezes'>
+                <ProfileInput placeholder="Current password"/>
+                <ProfileInput placeholder="Current password agian"/>
+              </div>
+              <div className='jelszoRendezes jelszoRendezesGomb'>
+                <ProfileInput placeholder="New password"/>
+                <Gomb content='Change' />
+              </div>
             </div>
-            <hr />
-            <Gomb content='Account Delete'/>
+
+            <hr className='hrEltartas' />
+
+            <div id='torlesRendezes'>
+              <Gomb content='Delete'/>
+            </div>
+
           </div>
+
         </div>
+
       </div>
+
     </div>
   );
 }

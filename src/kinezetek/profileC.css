@@ -1,10 +1,73 @@
 .profilAlap{
     background-color: rgba(255, 255, 255, 0.247);
-    height: 75vh;
+    height: 77vh;
     margin: 30px;
     border-radius: 15px;
     width: 200vh;
     display: flex;
+}
+
+#vegig{
+    width: 82%;
+}
+
+.hrEltartas{
+    margin-top: 2%;
+}
+
+#gomokMegfeleloElhelyezese{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.profilJobbRendezes{
+    width: 100%;
+}
+
+#nevValtasRendezes{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 50px;
+}
+
+.alsokettoprofilFeliratok{
+    margin-left: 10px;
+}
+
+#torlesRendezes{
+    justify-content: center;
+    margin-top: 15px;
+    display: flex;
+}
+
+
+.jelszoRendezesGomb{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 50px;
+}
+
+.jelszoRendezes{
+    display: flex;
+}
+
+.profileInput{
+    display: flex;
+    margin: 10px;
+    width: 500px;
+    height: 50px;
+    border-radius: 25px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0.247);
+    color: white;
+    padding-left: 10px;
+    transition: 1s;
+}
+
+.balOldalKep{
+    align-items: center;
 }
 
 .balOldalKep img{
@@ -49,6 +112,8 @@ button {
 button:hover{
     cursor: pointer;
 }
+
+
 .dropGomb:hover{
     background-color: rgba(253, 30, 30, 0.733);
 }
@@ -177,6 +242,11 @@ li{
     }
 }
 
+.profilFeliratok{
+    color: white;
+    font-size: 3vh;
+    font-weight: bold;
+}
 
 
 
@@ -185,6 +255,11 @@ li{
 }
 
 .pfp{
-    height: 10vh;
+    margin-top: 30px;
+    margin-right: 30px;
+    width: 120px;
+    aspect-ratio: 1 / 1;
+    border-radius: 50%;
+    object-fit: cover;
 }
 
