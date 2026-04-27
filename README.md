@@ -4,7 +4,7 @@
 
 >A GrowCasino egy online szerencsejáték oldal ahol különféle játékokon probálhatsz szerencsét.
 
-## 💻Projekt struktúrája
+### 💻Projekt struktúrája
 ### File struktúra
 
 ```
