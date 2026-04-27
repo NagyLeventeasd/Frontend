@@ -15,6 +15,15 @@
 - CSS3
 - Vanilla Javascript
 
+## Backend
+
+A backend Node.js alapú, Express keretrendszerrel, és MySQL adatbázissal működik. Feladata kommunikációs hidat létesíteni a frontend (játék + weboldal) és az adatbázis között.
+
+- [GitHub repo](https://github.com/p3Pe9/growCasino_Backend1)
+
+## Frontend
+
+A frontend html, natív css és javascript alapú webes alkalmazás. Feladata kommunikációs hidat létesíteni a felhasználó és a backend között.
 
 ### 💻Projekt struktúrája
 ### File struktúra
