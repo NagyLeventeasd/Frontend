@@ -6,11 +6,11 @@
 
 ## 🫱🏻‍🫲🏻Készítette
 
-```markdown
+
 - Első pont
 - Második pont
   - Behúzott pont
-```
+
 
   
 ---
