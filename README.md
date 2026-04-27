@@ -1,6 +1,6 @@
-# Grow Casino
+# 🎰Grow Casino🎰
 
-## 🎰A projektről
+## A projektről📋
 
 >A GrowCasino egy online szerencsejáték oldal ahol különféle játékokon probálhatsz szerencsét.
 
