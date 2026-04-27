@@ -10,6 +10,12 @@
   - Nagy Levente
 ---
 
+---
+### Fejlesztési környezet
+- HTML5
+- CSS3
+- Vanilla Javascript
+
 
 ### 💻Projekt struktúrája
 ### File struktúra
