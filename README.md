@@ -1,5 +1,8 @@
 # Grow Casino
 
+## 💻Projekt struktúrája
+### File struktúra
+
 ```
 GrowCasino FRONTEND/
 ├── assets/
