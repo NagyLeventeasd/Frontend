@@ -1,5 +1,6 @@
 # Grow Casino
 
+```
 GrowCasino FRONTEND/
 ├── assets/
 │   ├── bettipusok/
@@ -43,3 +44,4 @@ GrowCasino FRONTEND/
 ├── eslint.config.js
 ├── index.html
 └── netlify.toml
+```
