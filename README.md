@@ -1,10 +1,10 @@
 # 🎰Grow Casino🎰
 
-## A projektről📋
+## 📋A projektről📋
 
 >A GrowCasino egy online szerencsejáték oldal ahol különféle játékokon probálhatsz szerencsét.
 
-## 🫱🏻‍🫲🏻Készítette
+## 🫱🏻‍🫲🏻Készítette🫱🏻‍🫲🏻
 
   - Mirkó Péter
   - Nagy Levente
