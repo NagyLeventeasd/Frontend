@@ -6,13 +6,9 @@
 
 ## 🫱🏻‍🫲🏻Készítette
 
-
-- Első pont
-- Második pont
-  - Behúzott pont
-
-
-  
+  - Mirkó Péter
+  - Nagy Levente
+  - 
 ---
 
 
