@@ -1,5 +1,9 @@
 # Grow Casino
 
+##🎰A projektről
+
+>A GrowCasino
+
 ## 💻Projekt struktúrája
 ### File struktúra
 
