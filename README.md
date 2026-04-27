@@ -19,7 +19,7 @@ A backend Node.js alapú, Express keretrendszerrel, és MySQL adatbázissal műk
 ## Frontend
 
 ### Design
-![Design](https://imgur.com/a/Ci6Xj6J)
+![Design](https://i.imgur.com/4A7MBAl.png)
 >[Figma terv]([https://www.figma.com/design/vwIB6tSVklWLWYwD9zewmk/Szipi-szupi-nagy-projekt?node-id=183-46&p=f&t=CVBCjGyRJfZdLlQy-0](https://www.figma.com/design/HgLCr2Bd4ajO7seeNOVlfG/Untitled?node-id=0-1&t=s4pPuiUiDq4fyCZ1-1))
 
 A frontend html, natív css és javascript alapú webes alkalmazás. Feladata kommunikációs hidat létesíteni a felhasználó és a backend között.
