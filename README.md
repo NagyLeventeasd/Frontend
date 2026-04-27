@@ -8,7 +8,6 @@
 
   - Mirkó Péter
   - Nagy Levente
-  - 
 ---
 
 
