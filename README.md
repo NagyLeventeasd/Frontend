@@ -10,7 +10,6 @@
   - Nagy Levente
 ---
 
----
 ### Fejlesztési környezet
 - HTML5
 - CSS3
