@@ -69,6 +69,17 @@ GrowCasino FRONTEND/
 └── netlify.toml
 ```
 
+### Használt eszközök
+
+- [FontAwesome](https://fontawesome.com)
+- [W3Schools](https://www.w3schools.com)
+- [VS code](https://code.visualstudio.com)
+- [Netlify](https://www.netlify.com)
+- [ChatGPT](https://chatgpt.com)
+- [GitHub](https://github.com/)
+- [Figma](https://www.figma.com)
+
+
 ## 🫱🏻‍🫲🏻Készítette🫱🏻‍🫲🏻
 
   - Mirkó Péter
