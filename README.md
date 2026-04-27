@@ -73,8 +73,8 @@ GrowCasino FRONTEND/
 
 - [FontAwesome](https://fontawesome.com)
 - [W3Schools](https://www.w3schools.com)
-- [VS code](https://code.visualstudio.com)
 - [ChatGPT](https://chatgpt.com)
+- [VS code](https://code.visualstudio.com)
 - [GitHub](https://github.com/)
 - [Netlify](https://www.netlify.com)
 - [Figma](https://www.figma.com)
