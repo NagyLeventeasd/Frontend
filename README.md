@@ -23,8 +23,8 @@ A frontend html, natív css és javascript alapú webes alkalmazás. Feladata ko
 ![Design](https://i.imgur.com/4A7MBAl.png)
 >[Figma terv](https://www.figma.com/design/HgLCr2Bd4ajO7seeNOVlfG/Untitled?node-id=0-1&t=s4pPuiUiDq4fyCZ1-1)
 
-### 💻Projekt struktúrája
-### File struktúra
+## 💻Projekt struktúrája
+## File struktúra
 
 ```
 GrowCasino FRONTEND/
@@ -72,7 +72,7 @@ GrowCasino FRONTEND/
 └── netlify.toml
 ```
 
-### 🖥Használt eszközök🖥
+## 🖥Használt eszközök🖥
 
 - [FontAwesome](https://fontawesome.com)
 - [W3Schools](https://www.w3schools.com)
