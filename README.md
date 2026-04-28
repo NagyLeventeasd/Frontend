@@ -14,6 +14,7 @@ A backend Node.js alapú, Express keretrendszerrel, és MySQL adatbázissal műk
 
 - [GitHub repo](https://github.com/p3Pe9/growCasino_Backend1)
 
+---
 ## Frontend
 A frontend html, natív css és javascript alapú webes alkalmazás. Feladata kommunikációs hidat létesíteni a felhasználó és a backend között.
 ### Design
