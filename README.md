@@ -32,8 +32,8 @@ A frontend html, natív css és javascript alapú webes alkalmazás. Feladata ko
 
     | Fájlnév         | Típus       | Leírás                          |
     |-----------------|-------------|--------------------------------------------------|
-    | `homeC.css`      | CSS         | Home stílusa                        |
     | `HomeO.jsx`     | JSX          | Főoldal                  |
+    | `homeC.css`      | CSS         | Home stílusa                        |
     | `Navbar.jsx`      | JSX  |A főoldal oldalt elhelyezkedő navbar           |
     | `FelsoSav.jsx`      | JSX  |Az olodokon megtalálható felső sáv           |
    
