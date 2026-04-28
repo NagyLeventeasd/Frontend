@@ -106,3 +106,20 @@ GrowCasino FRONTEND/
 ### 💾Teszt💾
 
 Manuálisan lett tesztelve.
+
+#### Tesztfelhasználók
+<details>
+  <summary>USER</summary>
+
+- email: teszt@teszt.hu
+- jelszó: 12345678
+
+</details>
+
+<details>
+  <summary>ADMIN</summary>
+
+- email: admin@teszt.hu
+- jelszó: 12345678
+
+</details>
