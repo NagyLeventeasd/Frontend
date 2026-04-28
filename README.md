@@ -109,7 +109,7 @@ Manuálisan lett tesztelve.
 
 #### Tesztfelhasználók
 <details>
-  <summary>USER</summary>
+  <summary>user</summary>
 
 - email: teszt@teszt.hu
 - jelszó: 12345678
@@ -117,9 +117,10 @@ Manuálisan lett tesztelve.
 </details>
 
 <details>
-  <summary>ADMIN</summary>
+  <summary>admin</summary>
 
 - email: admin@teszt.hu
 - jelszó: 12345678
 
 </details>
+---
