@@ -93,6 +93,6 @@ GrowCasino FRONTEND/
   - Nagy Levente
 ---
 
-### Teszt
+### 💾Teszt💾
 
 Manuálisan lett tesztelve, valamint ki lett adva tesztelésre.
