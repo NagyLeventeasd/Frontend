@@ -68,7 +68,7 @@ GrowCasino FRONTEND/
 ├── index.html
 └── netlify.toml
 ```
-
+---
 ## 💻Fejlesztési környezet💻
 - Vanilla Javascript
 - HTML5
