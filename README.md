@@ -74,8 +74,8 @@ GrowCasino FRONTEND/
 
 
 - Új játékok (Roulette, BlackJack, Bacaratta, és különböző Slot játékok)
-- Tranzakció history
 - Withdraw rendszer
+- Tranzakció history
 - Jackpot rendszer
 - Admin panel
 
