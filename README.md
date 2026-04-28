@@ -95,4 +95,4 @@ GrowCasino FRONTEND/
 
 ### 💾Teszt💾
 
-Manuálisan lett tesztelve, valamint ki lett adva tesztelésre.
+Manuálisan lett tesztelve.
