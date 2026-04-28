@@ -124,6 +124,4 @@ Manuálisan lett tesztelve.
 
 </details>
 
-
-
 ---
