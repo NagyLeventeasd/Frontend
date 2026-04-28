@@ -23,7 +23,7 @@ A frontend html, natív css és javascript alapú webes alkalmazás. Feladata ko
 
 ## Oldalak
 
-1. ####  `index.html`
+1. ####  `HomeO.jsx`
 
     Főoldal: 
 
