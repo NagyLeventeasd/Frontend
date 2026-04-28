@@ -6,10 +6,7 @@
 >A GrowCasino egy online szerencsejáték oldal ahol különféle játékokon probálhatsz szerencsét.
 
 
-## 💻Fejlesztési környezet💻
-- HTML5
-- CSS3
-- Vanilla Javascript
+
 
 ## Backend
 
@@ -82,6 +79,10 @@ GrowCasino FRONTEND/
 - [Netlify](https://www.netlify.com)
 - [Figma](https://www.figma.com)
 
+## 💻Fejlesztési környezet💻
+- Vanilla Javascript
+- HTML5
+- CSS3
 
 ## 🤝🏻Készítette🤝🏻
 
