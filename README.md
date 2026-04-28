@@ -83,7 +83,7 @@ GrowCasino FRONTEND/
 - [Figma](https://www.figma.com)
 
 
-## 🫱🏻‍🫲🏻Készítette🫱🏻‍🫲🏻
+## 🤝🏻Készítette🤝🏻
 
   - Mirkó Péter
   - Nagy Levente
