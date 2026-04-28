@@ -50,6 +50,16 @@ Bejelentkezés:
 | `homeC.css`      | CSS         | Home stílusa                        |
 | `Navbar.jsx`      | JSX  |A főoldal oldalt elhelyezkedő navbar           |
 | `FelsoSav.jsx`      | JSX  |Az olodokon megtalálható felső sáv           |
+
+
+    | Fájlnév         | Típus       | Leírás                          |
+    |-----------------|-------------|--------------------------------------------------|
+    | `main.css`      | ![CSS](https://img.shields.io/badge/-CSS-blue)         | Általános stíluslap                              |
+    | `index.css`     | ![CSS](https://img.shields.io/badge/-CSS-blue)          | Főoldalhoz kapcsolódó stíluslap                   |
+    | `index.js`      | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  | A `index.html` (főoldal) működéséért felelős JavaScript fájl. Biztosítja az interaktív felhasználói élményt a főoldalon.             |
+    | `gameindex.js`  | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  | Játékletöltés gombok működése               |
+    | `theme.js`  | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  | Sötét és világos mód                |
+    | `ebed.js`       | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  | Húsvéti tojás       |
    
 3. ####  `RegisztracioO.jsx`
 
