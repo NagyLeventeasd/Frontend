@@ -38,7 +38,7 @@ A frontend html, natív css és javascript alapú webes alkalmazás. Feladata ko
     | `FelsoSav.jsx`      | JSX  |Az olodokon megtalálható felső sáv           |
 
 
-   1. ####  `BejelentkezesO.jsx`
+  2. ####  `BejelentkezesO.jsx`
 
     Bejelentkezés: 
 
