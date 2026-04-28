@@ -51,7 +51,19 @@ Bejelentkezés:
 | `Navbar.jsx`      | JSX  |A főoldal oldalt elhelyezkedő navbar           |
 | `FelsoSav.jsx`      | JSX  |Az olodokon megtalálható felső sáv           |
    
+3. ####  `RegisztracioO.jsx`
 
+Regisztráció: 
+
+![index](https://i.imgur.com/OAnzRg4.png)
+
+
+| Fájlnév         | Típus       | Leírás                          |
+|-----------------|-------------|--------------------------------------------------|
+| `HomeO.jsx`     | JSX          | Főoldal                  |
+| `homeC.css`      | CSS         | Home stílusa                        |
+| `Navbar.jsx`      | JSX  |A főoldal oldalt elhelyezkedő navbar           |
+| `FelsoSav.jsx`      | JSX  |Az olodokon megtalálható felső sáv           |
 ---
 ## 📄Projekt struktúrája📄
 ### File struktúra
