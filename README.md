@@ -86,12 +86,13 @@ GrowCasino FRONTEND/
 - [Netlify](https://www.netlify.com)
 - [Figma](https://www.figma.com)
 
-### Teszt
-
-Manuálisan lett tesztelve, valamint ki lett adva tesztelésre.
 
 ## 🤝🏻Készítette🤝🏻
 
   - Mirkó Péter
   - Nagy Levente
 ---
+
+### Teszt
+
+Manuálisan lett tesztelve, valamint ki lett adva tesztelésre.
