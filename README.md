@@ -70,17 +70,14 @@ GrowCasino FRONTEND/
 └── netlify.toml
 ```
 
-## 🔮 További fejlesztések
+## 🔮További fejlesztések🔮
 
-- Withdraw rendszer
+
 - Új játékok (Roulette, BlackJack, Bacaratta, és különböző Slot játékok)
 - Tranzakció history
-- Admin panel
+- Withdraw rendszer
 - Jackpot rendszer
-- Provably Fair Mines
-- Real-time socket.io játékok
-- Frontend integráció
-- Deploy productionre
+- Admin panel
 
 ---
 ## 💻Fejlesztési környezet💻
