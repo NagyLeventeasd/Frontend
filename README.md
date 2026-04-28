@@ -36,6 +36,21 @@ A frontend html, natív css és javascript alapú webes alkalmazás. Feladata ko
     | `homeC.css`      | CSS         | Home stílusa                        |
     | `Navbar.jsx`      | JSX  |A főoldal oldalt elhelyezkedő navbar           |
     | `FelsoSav.jsx`      | JSX  |Az olodokon megtalálható felső sáv           |
+
+
+   1. ####  `BejelentkezesO.jsx`
+
+    Bejelentkezés: 
+
+    ![index](https://i.imgur.com/f50whLr.png)
+
+
+    | Fájlnév         | Típus       | Leírás                          |
+    |-----------------|-------------|--------------------------------------------------|
+    | `HomeO.jsx`     | JSX          | Főoldal                  |
+    | `homeC.css`      | CSS         | Home stílusa                        |
+    | `Navbar.jsx`      | JSX  |A főoldal oldalt elhelyezkedő navbar           |
+    | `FelsoSav.jsx`      | JSX  |Az olodokon megtalálható felső sáv           |
    
 
 
