@@ -26,7 +26,10 @@ A frontend html, natív css és javascript alapú webes alkalmazás. Feladata ko
 1. ####  `index.html`
 
     Főoldal: 
-    
+
+    ![index](https://i.imgur.com/bo7Zmh8.png)
+
+
     | Fájlnév         | Típus       | Leírás                          |
     |-----------------|-------------|--------------------------------------------------|
     | `homeC.css`      | CSS         | Home stílusa                        |
@@ -34,7 +37,7 @@ A frontend html, natív css és javascript alapú webes alkalmazás. Feladata ko
     | `Navbar.jsx`      | JSX  |A főoldal oldalt elhelyezkedő navbar           |
 
 
-    ![index](https://i.snipboard.io/G7VupQ.jpg)
+
 
 
 ---
