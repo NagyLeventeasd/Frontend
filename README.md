@@ -25,37 +25,32 @@ A frontend html, natív css és javascript alapú webes alkalmazás. Feladata ko
 
 1. ####  `HomeO.jsx`
 
-    Főoldal: 
+Főoldal: 
 
-    ![index](https://i.imgur.com/bo7Zmh8.png)
-
-
-    | Fájlnév         | Típus       | Leírás                          |
-    |-----------------|-------------|--------------------------------------------------|
-    | `HomeO.jsx`     | JSX          | Főoldal                  |
-    | `homeC.css`      | CSS         | Home stílusa                        |
-    | `Navbar.jsx`      | JSX  |A főoldal oldalt elhelyezkedő navbar           |
-    | `FelsoSav.jsx`      | JSX  |Az olodokon megtalálható felső sáv           |
+![index](https://i.imgur.com/bo7Zmh8.png)
 
 
-  2. ####  `BejelentkezesO.jsx`
+| Fájlnév         | Típus       | Leírás                          |
+|-----------------|-------------|--------------------------------------------------|
+| `HomeO.jsx`     | JSX          | Főoldal                  |
+| `homeC.css`      | CSS         | Home stílusa                        |
+| `Navbar.jsx`      | JSX  |A főoldal oldalt elhelyezkedő navbar           |
+| `FelsoSav.jsx`      | JSX  |Az olodokon megtalálható felső sáv           |
 
-    Bejelentkezés: 
+2. ####  `BejelentkezesO.jsx`
 
-    ![index](https://i.imgur.com/f50whLr.png)
+Bejelentkezés: 
+
+![index](https://i.imgur.com/f50whLr.png)
 
 
-    | Fájlnév         | Típus       | Leírás                          |
-    |-----------------|-------------|--------------------------------------------------|
-    | `HomeO.jsx`     | JSX          | Főoldal                  |
-    | `homeC.css`      | CSS         | Home stílusa                        |
-    | `Navbar.jsx`      | JSX  |A főoldal oldalt elhelyezkedő navbar           |
-    | `FelsoSav.jsx`      | JSX  |Az olodokon megtalálható felső sáv           |
+| Fájlnév         | Típus       | Leírás                          |
+|-----------------|-------------|--------------------------------------------------|
+| `HomeO.jsx`     | JSX          | Főoldal                  |
+| `homeC.css`      | CSS         | Home stílusa                        |
+| `Navbar.jsx`      | JSX  |A főoldal oldalt elhelyezkedő navbar           |
+| `FelsoSav.jsx`      | JSX  |Az olodokon megtalálható felső sáv           |
    
-
-
-
-
 
 ---
 ## 📄Projekt struktúrája📄
